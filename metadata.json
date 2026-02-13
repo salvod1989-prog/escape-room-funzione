@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hawkins Ledger: The Classroom Shadow",
+  "description": "An immersive 80s-themed educational RPG inspired by Stranger Things where students explore Hawkins Middle School, solve quests, and pass academic theory tests to save their friends from the Upside Down.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
